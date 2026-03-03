@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "285766486606",
+    "project_id": "chamaapp-3f8b2",
+    "storage_bucket": "chamaapp-3f8b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285766486606:android:2b5d76db25c5599428d11f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPSYDZg1yQtYAjWvPB5Sg1raRzw48JC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285766486606:android:1dc7e3421aa3965628d11f",
+        "android_client_info": {
+          "package_name": "com.example.chama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPSYDZg1yQtYAjWvPB5Sg1raRzw48JC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285766486606:android:a7b74179306908d928d11f",
+        "android_client_info": {
+          "package_name": "com.gmail.berrylaakoth.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPSYDZg1yQtYAjWvPB5Sg1raRzw48JC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
